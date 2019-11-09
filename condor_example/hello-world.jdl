@@ -1,0 +1,6 @@
+Universe   = vanilla
+Executable = run.sh
+Log        = test.log
+Output     = test.out
+Error      = test.error
+Queue
